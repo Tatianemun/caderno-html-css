@@ -1,0 +1,25 @@
+body {
+    background-color: blueviolet;
+    color: black;
+}
+
+h1 {
+    color:rgb(57, 16, 95);
+    text-align: left;
+}
+
+p {
+    color: rgb(41, 9, 9);
+    font-family: serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+#refrao {
+    color: rgb(82, 21, 139);
+    text-align: left;
+}
+
+.versos {
+    color: rgb(41, 9, 9)
+}
